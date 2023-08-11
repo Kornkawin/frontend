@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar {
+    width: auto;
+    height: 730px;
+    background: #24053E;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+
+.navbar__logo {
+
+}
+
+.navbar__cta {
+    color: white;
+    font-size: 18px;
+    font-family: Manrope, serif;
+    font-weight: 700;
+    line-height: 32px;
+    word-wrap: break-word
+}
